@@ -1,0 +1,11 @@
+C:\Users\Diane\source\repos\SnakeGame\Debug\SnakeGame.exe
+C:\Users\Diane\source\repos\SnakeGame\Debug\SnakeGame.vcxproj.CopyComplete
+C:\Users\Diane\source\repos\SnakeGame\Debug\sfml-graphics-d-2.dll
+C:\Users\Diane\source\repos\SnakeGame\Debug\sfml-window-d-2.dll
+C:\Users\Diane\source\repos\SnakeGame\Debug\sfml-system-d-2.dll
+C:\Users\Diane\source\repos\SnakeGame\Debug\freetyped.dll
+C:\Users\Diane\source\repos\SnakeGame\Debug\zlibd1.dll
+C:\Users\Diane\source\repos\SnakeGame\Debug\bz2d.dll
+C:\Users\Diane\source\repos\SnakeGame\Debug\libpng16d.dll
+C:\Users\Diane\source\repos\SnakeGame\Debug\brotlidec.dll
+C:\Users\Diane\source\repos\SnakeGame\Debug\brotlicommon.dll
